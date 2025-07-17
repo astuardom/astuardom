@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hola, soy Alejandro Stuardo Matus
 
-<!--
-**astuardom/astuardom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desarrollador Frontend en formación con una gran pasión por crear experiencias web atractivas, funcionales y modernas.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+Soy una persona autodidacta, proactiva y motivada por la tecnología. Me encanta aprender constantemente y aplicar mis conocimientos en proyectos reales. Me especializo en el desarrollo frontend, utilizando herramientas modernas para construir interfaces limpias y responsivas.
+
+---
+
+## 🧠 Tecnologías que manejo
+
+- **HTML5** – Maquetación semántica y accesible  
+- **CSS3** – Estilos modernos, Flexbox, Grid  
+- **JavaScript (ES6+)** – Funciones, manipulación del DOM, asincronía  
+- **React.js** – Componentes, hooks, manejo de estado  
+- **Vue.js** – Vue CLI, composición y reactividad  
+
+---
+
+## 💼 Mis objetivos
+
+- Mejorar día a día como desarrollador frontend
+- Participar en proyectos colaborativos o de código abierto
+- Aprender tecnologías backend en el futuro (Node.js, Express, MongoDB)
+
+---
+
+## 📫 Cómo contactarme
+
+- ✉️ Email: a.stuardo.m@gmail.com 
+- 🌐 Portafolio (pronto...)
+- 💬 LinkedIn: https://www.linkedin.com/in/alejandro-stuardo-matus/
+
+---
+Github Satus
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=astuardom&theme=tokyonight&locale=es)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+> *"La mejor forma de predecir el futuro es crearlo." – Abraham Lincoln*
+
+Gracias por visitar mi perfil 💻
+
