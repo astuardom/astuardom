@@ -35,7 +35,7 @@ Soy una persona autodidacta, proactiva y motivada por la tecnología. Me encanta
 - 💬 LinkedIn: https://www.linkedin.com/in/alejandro-stuardo-matus/
 
 ---
-Github Satus
+## Github Satus
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=astuardom&theme=tokyonight&locale=es)](https://git.io/streak-stats)
 
