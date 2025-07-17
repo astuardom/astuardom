@@ -36,6 +36,7 @@ Soy una persona autodidacta, proactiva y motivada por la tecnología. Me encanta
 
 ---
 Github Satus
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=astuardom&theme=tokyonight&locale=es)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
