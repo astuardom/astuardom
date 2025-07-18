@@ -41,7 +41,7 @@ Soy una persona autodidacta, proactiva y motivada por la tecnología. Me encanta
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=astuardom&rank_icon=github&show_icons=true&theme=tokyonight&locale=es)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&locale=es)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&hide_progress=true&locale=es)
 
 ---
 
